@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zkjon</h1>
-<h3 align="center">A passionate frontend developer from Spain.</h3>
+<h3 align="center">A passionate full-stack developer from Spain.</h3>
 
 <p align="left"> <a href="https://twitter.com/zkjondev" target="blank"><img src="https://img.shields.io/twitter/follow/zkjondev?logo=twitter&style=for-the-badge" alt="zkjondev" /></a> </p>
 
