@@ -1,6 +1,6 @@
-<center>
-<img src="assets/images/me.jpg" width="200" height="200" style="border-radius: 50%; border: 2px solidrgb(255, 0, 0);">
-</center>
+<div align="center">
+<img src="assets/images/me.jpg" width="200" height="200" style="border-radius: 50%; border: 2px solid rgb(255, 0, 0);" alt="zkjon profile picture">
+</div>
 <h1 align="center">Hi 👋, I'm zkjon</h1>
 <h3 align="center">A passionate full-stack developer from Spain.</h3>
 <h4 align="center">
@@ -38,5 +38,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zkjon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zkjon" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkjon&show_icons=true&locale=en&layout=compact" alt="zkjon" /></p>
