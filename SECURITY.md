@@ -1,27 +1,27 @@
-# Política de Seguridad
+# Security Policy
 
-## Reportar Vulnerabilidades
+## Reporting Vulnerabilities
 
-Si encuentras una vulnerabilidad de seguridad en alguno de mis proyectos:
+If you find a security vulnerability in any of my projects:
 
-1. **NO** abras un issue público
-2. Envía un email a: focusyts@gmail.com
-3. Incluye una descripción detallada del problema
-4. Te responderé dentro de 48 horas
+1. **DO NOT** open a public issue
+2. Send an email to: focusyts@gmail.com
+3. Include a detailed description of the problem
+4. I will respond within 48 hours
 
-## Proyectos Soportados
+## Supported Projects
 
-| Proyecto | Versión | Soporte |
+| Project | Version | Support |
 | ------- | ------- | ------- |
-| Repositorios activos | Latest | ✅ |
-| Proyectos archivados | N/A | ❌ |
+| Active repositories | Latest | ✅ |
+| Archived projects | N/A | ❌ |
 
-## Proceso
+## Process
 
-1. Recibo el reporte
-2. Confirmo la vulnerabilidad
-3. Trabajo en una solución
-4. Publico la corrección
-5. Te doy crédito (si lo deseas)
+1. I receive the report
+2. I confirm the vulnerability
+3. I work on a solution
+4. I publish the fix
+5. I give you credit (if you want)
 
-¡Gracias por ayudar a mantener mis proyectos seguros! 🔒
+Thank you for helping keep my projects secure! 🔒

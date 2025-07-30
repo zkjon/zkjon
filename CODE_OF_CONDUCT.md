@@ -1,31 +1,31 @@
-# Código de Conducta
+# Code of Conduct
 
-## Mi Compromiso
+## My Commitment
 
-Como desarrollador, me comprometo a mantener un ambiente respetuoso y profesional en todos mis repositorios y interacciones.
+As a developer, I commit to maintaining a respectful and professional environment in all my repositories and interactions.
 
-## Estándares
+## Standards
 
-En mis proyectos y colaboraciones espero:
+In my projects and collaborations I expect:
 
-* **Respeto mutuo**: Trato respetuoso hacia todas las personas
-* **Comunicación constructiva**: Feedback útil y bien intencionado
-* **Profesionalismo**: Mantener un ambiente de trabajo positivo
-* **Inclusividad**: Bienvenida a desarrolladores de todos los niveles
+* **Mutual respect**: Respectful treatment towards all people
+* **Constructive communication**: Useful and well-intentioned feedback
+* **Professionalism**: Maintaining a positive work environment
+* **Inclusivity**: Welcome to developers of all levels
 
-## Mis Valores
+## My Values
 
-- 🤝 Colaboración abierta
-- 📚 Aprendizaje continuo
-- 💡 Innovación responsable
-- 🌟 Calidad en el código
+- 🤝 Open collaboration
+- 📚 Continuous learning
+- 💡 Responsible innovation
+- 🌟 Code quality
 
-## Contacto
+## Contact
 
-Si tienes alguna preocupación o sugerencia sobre el comportamiento en mis repositorios:
+If you have any concerns or suggestions about behavior in my repositories:
 - Email: focusyts@gmail.com
 - Twitter: [@zkjondev](https://twitter.com/zkjondev)
 
 ---
 
-*Este código de conducta se aplica a todos mis repositorios públicos y colaboraciones.*
+*This code of conduct applies to all my public repositories and collaborations.*

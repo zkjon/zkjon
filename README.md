@@ -8,7 +8,7 @@
     <a href="https://apis.es/"><img src="assets/images/trilogo.avif"></a>
 </h4>
 
-<p align="left"> <a href="https://twitter.com/zkjondev" target="blank"><img src="https://img.shields.io/twitter/follow/zkjondev?logo=twitter&style=for-the-badge" alt="Logotipos de la empresa" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zkjondev" target="blank"><img src="https://img.shields.io/twitter/follow/zkjondev?logo=twitter&style=for-the-badge" alt="zkjondev" /></a> </p>
 
 - 🔭 I'm currently working on [Apis](https://apis.es/)
 
@@ -38,3 +38,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zkjon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zkjon" /></a></p><br><br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkjon&show_icons=true&locale=en&layout=compact" alt="zkjon" /></p>
