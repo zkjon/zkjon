@@ -2,8 +2,11 @@ name: Update README with recent activity
 
 on:
   schedule:
-    - cron: '0 * * * *'  # cada hora
-  workflow_dispatch:
+    - cron: '0 * * * *'  # Ejecuta cada hora
+  workflow_dispatch:     # Permite ejecución manual desde la pestaña "Actions"
+
+permissions:
+  contents: write  # Necesario para hacer commits
 
 jobs:
   update-readme:
@@ -15,3 +18,4 @@ jobs:
         uses: jamesgeorge007/github-activity-readme@master
         with:
           COMMIT_MSG: 'chore: updated GitHub activity'
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
