@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 </picture>
 <br/>
 
-## Actividad reciente de GitHub
+## ⚡Recent activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
