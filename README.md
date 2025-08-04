@@ -61,3 +61,7 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact" />
 </picture>
+<br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
