@@ -11,7 +11,6 @@
 </div>
 <br />
 
-
 <div align="center">
   <a href="https://twitter.com/zkjondev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zkjondev" height="30" width="40">
@@ -22,7 +21,7 @@
   <a href="https://instagram.com/zkjon" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zkjon" height="30" width="40">
   </a>
-  <div/>
+</div>
 
 <!--
 **zkjon/zkjon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +49,7 @@ Here are some ideas to get you started:
 </picture>
 
 <br/>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact&theme=dark"
@@ -62,6 +62,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact" />
 </picture>
 <br/>
+
+## Actividad reciente de GitHub
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
