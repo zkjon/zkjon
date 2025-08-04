@@ -40,3 +40,8 @@
 <p><a href="https://www.buymeacoffee.com/zkjon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zkjon" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkjon&show_icons=true&locale=en&layout=compact" alt="zkjon" /></p>
+
+## 🔄 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
