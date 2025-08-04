@@ -42,6 +42,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkjon&show_icons=true&locale=en&layout=compact" alt="zkjon" /></p>
 
 ## 🔄 Recent GitHub Activity
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
