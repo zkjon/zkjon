@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=zkjon&show_icons=true&count_private=true&include_all_commits=true" />
 </picture>
 
-<<<<<<< HEAD
 <br/>
 <picture>
   <source
@@ -62,24 +61,3 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact" />
 </picture>
-=======
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg" alt="astro" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/zkjon"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zkjon" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkjon&show_icons=true&locale=en&layout=compact" alt="zkjon" /></p>
-
-## 🔄 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
->>>>>>> 4e6bb532f5e3a8b843a250b0a9aabf0e866fb9c0
