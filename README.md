@@ -30,34 +30,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a big fan of basketball
 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zkjon&show_icons=true&count_private=true&include_all_commits=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=zkjon&show_icons=true&count_private=true&include_all_commits=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=zkjon&show_icons=true&count_private=true&include_all_commits=true" />
-</picture>
+
+![zkjon's Stats](https://github-readme-stats.vercel.app/api?username=zkjon&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 <br/>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&layout=compact" />
-</picture>
-<br/>
-
-## ⚡Recent activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+![zkjon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&theme=dark&show_icons=true&hide_border=true&layout=compact)
