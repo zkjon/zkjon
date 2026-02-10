@@ -30,9 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a big fan of basketball
 -->
-
-![zkjon's Stats](https://github-readme-stats.vercel.app/api?username=zkjon&theme=dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
-
-<br/>
-
-![zkjon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zkjon&theme=dark&show_icons=true&hide_border=true&layout=compact&cache_seconds=1800)
