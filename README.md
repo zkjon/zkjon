@@ -19,4 +19,4 @@ fullstack developer working at **apis**, a spanish food brand
 ---
 
 ### 📫 contact
-- gitHub: **@zkjon**
+- github: **@zkjon**
